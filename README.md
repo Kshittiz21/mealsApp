@@ -12,7 +12,7 @@
 ## Images
 
 #### Categories Screen
-<img src="images/categories_screen.jpg"
+<img src="images/Categories_screen.jpg"
 alt="categories_screen" width="300"/>
 
 #### Category detail Screen
@@ -22,7 +22,7 @@ alt="categories_screen" width="300"/>
 <img src="images/meal_description_screen.jpg" alt="meal_description_screen" width="300"/>
 
 #### Favorites Screen
-<img src="images/favorites_screen.jpg" alt="favorites_screen" width="300"/>
+<img src="images/favorites_Screen.jpg" alt="favorites_screen" width="300"/>
 
 #### Appbar
 <img src="images/appbar.jpg" alt="appbar" width="300"/>
