@@ -1,16 +1,14 @@
 # mealsApp
 
-A new Flutter project.
+- This is a demo mobile Application which displays all the meals/recipes that we manually add in it.
 
-## Getting Started
+- I created this app just for education purpose to sharpen my UI/UX design skills as I learned about a lot of widgets related to designing which I was not familiar with. 
 
-This project is a starting point for a Flutter application.
+- It displays the picture of the meal with its name, ingredients and recipe.
 
-A few resources to get you started if this is your first Flutter project:
+- It has features like adding as favorite and filtering the recipes to see only those recipes which fit our criteria.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Images
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Categories Screen
+<img src="images/Categories_sceen.jpeg" alt="drawing" width="300"/>
