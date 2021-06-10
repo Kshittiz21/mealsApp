@@ -1,3 +1,4 @@
+
 # mealsApp
 
 - This is a demo mobile Application which displays all the meals/recipes that we manually add in it.
