@@ -11,4 +11,4 @@
 ## Images
 
 #### Categories Screen
-<img src="images/Categories_sceen.jpeg" alt="drawing" width="300"/>
+<img src="images/Categories_sceen.jpg" alt="drawing" width="300"/>
