@@ -11,4 +11,19 @@
 ## Images
 
 #### Categories Screen
-<img src="images/Categories_screen.jpg" alt="categories_screen" width="300"/>
+<img src="images/categories_screen.jpg" alt="categories_screen" width="300"/>
+
+#### Category detail Screen
+<img src="images/category_all_meals.jpg" alt="category_detail_screen" width="300"/>
+
+#### Meal Desciption Screen
+<img src="images/meal_description_screen.jpg" alt="meal_description_screen" width="300"/>
+
+#### Favorites Screen
+<img src="images/favorites_screen.jpg" alt="favorites_screen" width="300"/>
+
+#### Appbar
+<img src="images/appbar.jpg" alt="appbar" width="300"/>
+
+#### Filters Screen
+<img src="images/filters_screen.jpg" alt="filters_screen" width="300"/>
