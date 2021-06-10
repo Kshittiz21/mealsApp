@@ -11,7 +11,8 @@
 ## Images
 
 #### Categories Screen
-<img src="images/categories_screen.jpg" alt="categories_screen" width="300"/>
+<img src="images/categories_screen.jpg"
+alt="categories_screen" width="300"/>
 
 #### Category detail Screen
 <img src="images/category_all_meals.jpg" alt="category_detail_screen" width="300"/>
